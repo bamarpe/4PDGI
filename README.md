@@ -1,4 +1,4 @@
 # 4PDGI
 Projectes disseny gràfic interactius, 4t
 ## Retrat companya
-[retrat_isabel](retrat/.isa.pdf)
+[retrat_isabel](isa.pdf)(retrat.pde)
