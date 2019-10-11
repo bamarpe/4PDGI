@@ -6,3 +6,5 @@ Projectes disseny gràfic interactius, 4t
 [Retrat Isabel](retrat.pde)
 ## Monografía - treball investigació
 [Jared Tarbell](jared_tarbell.pdf)
+## Joc 11/10/2019
+[Imatges joc](imatges_11_10_2019.zip)
