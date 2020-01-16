@@ -8,3 +8,5 @@ Projectes disseny gràfic interactius, 4t
 [Jared Tarbell](jared_tarbell.pdf)
 ## Joc 11/10/2019
 [Imatges joc](imatges_11_10_2019.zip)
+## Projecte intervenció en l'espai
+[Projecte final](memoria.pdf)
